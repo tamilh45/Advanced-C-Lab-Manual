@@ -218,7 +218,7 @@ void insert(float data)
 
 
 
-Result:
+## Result:
 Thus, the program to insert an element in doubly linked list is verified successfully.
 
 
