@@ -2,6 +2,7 @@
 
 **Aim:**
 To write a C program print the lowercase English word corresponding to the number
+
 **Algorithm:**
 1.	Start
 - Initialize an integer variable n.
@@ -81,6 +82,7 @@ Thus, the program is verified successfully
 
 **Aim:**
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
+
 **Algorithm:**
 1.	Start
 2.	Declare char array a[50] outer loop for each digit from 0 to 3
@@ -223,6 +225,7 @@ Thus, the program is verified successfully
 
 **Aim:**
 To write a C program to print a pattern of numbers from 1 to n as shown below.
+
 **Algorithm:**
 1.	Start
 2.	Declare integer variables n, i, j, min
