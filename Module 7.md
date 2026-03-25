@@ -57,7 +57,7 @@ int main() {
 <img width="1362" height="710" alt="image" src="https://github.com/user-attachments/assets/f4d18ee4-cf7c-471d-bed4-b6020b28a2bb" />
 
 
-Result:
+## Result:
 Thus, the program is verified successfully. 
 
 
@@ -109,7 +109,7 @@ int main()
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
 
 
@@ -168,7 +168,7 @@ int main()
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
  
 
@@ -230,7 +230,7 @@ int main()
 <img width="771" height="377" alt="image" src="https://github.com/user-attachments/assets/1394b8fc-d07a-4fa7-99aa-b81a6c1b0618" />
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
 
 
